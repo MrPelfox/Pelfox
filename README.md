@@ -15,7 +15,7 @@ Merhaba! Ben Pelfox, bir web geliştiricisiyim. Web teknolojileri ve modern geli
 
 ## İletişim
 
-- **YouTube:** [Pelfox LinkedIn](https://youtube.com/@Mr.Pelfox)
+- **YouTube:** [@mr.pelfox](https://youtube.com/@Mr.Pelfox)
 - **Instagram:** [@mr.pelfox](https://instagram.com/mr.pelfox)
 - **E-posta:** contacpelfox@gmail.com
 
